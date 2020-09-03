@@ -1,4 +1,4 @@
-import { ScoreBoard } from "./scoreBoard-done";
+import { ScoreBoard } from "./scoreBoard";
 
 const scoreboard = new ScoreBoard("Lakers", "Celtics");
 
